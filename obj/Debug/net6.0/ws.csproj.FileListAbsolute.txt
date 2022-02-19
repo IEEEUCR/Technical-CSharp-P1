@@ -1,0 +1,17 @@
+C:\users\alexm\source\repos\ws\bin\Debug\net6.0\ws.exe
+C:\users\alexm\source\repos\ws\bin\Debug\net6.0\ws.deps.json
+C:\users\alexm\source\repos\ws\bin\Debug\net6.0\ws.runtimeconfig.json
+C:\users\alexm\source\repos\ws\bin\Debug\net6.0\ws.dll
+C:\users\alexm\source\repos\ws\bin\Debug\net6.0\ref\ws.dll
+C:\users\alexm\source\repos\ws\bin\Debug\net6.0\ws.pdb
+C:\users\alexm\source\repos\ws\obj\Debug\net6.0\ws.csproj.AssemblyReference.cache
+C:\users\alexm\source\repos\ws\obj\Debug\net6.0\ws.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\alexm\source\repos\ws\obj\Debug\net6.0\ws.AssemblyInfoInputs.cache
+C:\users\alexm\source\repos\ws\obj\Debug\net6.0\ws.AssemblyInfo.cs
+C:\users\alexm\source\repos\ws\obj\Debug\net6.0\ws.csproj.CoreCompileInputs.cache
+C:\users\alexm\source\repos\ws\obj\Debug\net6.0\ws.dll
+C:\users\alexm\source\repos\ws\obj\Debug\net6.0\ref\ws.dll
+C:\users\alexm\source\repos\ws\obj\Debug\net6.0\ws.pdb
+C:\users\alexm\source\repos\ws\obj\Debug\net6.0\ws.genruntimeconfig.cache
+C:\users\alexm\source\repos\ws\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\users\alexm\source\repos\ws\obj\Debug\net6.0\ws.csproj.CopyComplete
